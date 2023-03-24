@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/doremongu"><img src="https://api.daily.dev/devcards/6e3123bcfd3e47e795bc5c5089da92e6.png?r=bl9" width="400" alt="Đông's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/dongnv11082001/dongnv11082001/blob/master/devcard.svg" width="400" alt="Đông's Dev Card"/></a>
 
 <!--
 **dongnv11082001/dongnv11082001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
